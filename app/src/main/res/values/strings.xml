@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Çocuk Takip</string>
+    <string name="subscription">Çocuk Ekle</string>
+    <string name="publish">Konum Gönder</string>
+    <string name="message">Mesajlar</string>
+    <string name="connect">Connect</string>
+    <string name="topic">Takip Edilecek Çocuk İsmi</string>
+    <string name="payload">Konum Göndereck Çocuk İsmi</string>
+    <string name="subscribe">Takip Et</string>
+    <string name="title_activity_maps">Haritalar</string>
+</resources>
